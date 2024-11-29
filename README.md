@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Amit Srivastav  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmitSrivastav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/AmitSrivastav/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-AmitSrivastavPortfolio-darkgreen?style=flat-square&logo=about-dot-me)](https://AmitSrivastavPortfolio)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmitSrivastav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-srivastav-85bb36276/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-AmitSrivastavPortfolio-darkgreen?style=flat-square&logo=about-dot-me)](https://srivamit.github.io/portfolio2024/)  
 [![Email](https://img.shields.io/badge/Email-srivastavamit20000@gmail.com-red?style=flat-square&logo=gmail)](mailto:srivastavamit20000@gmail.com)  
 
 ---
@@ -36,25 +36,14 @@ I'm a passionate **Software Engineer**, **Game Developer**, and **ML Enthusiast*
 ## 🏆 Achievements  
 - 🥇 **First Prize**: **IIMT Hackathon 2.0**, for developing an AR/VR mental health app with AI integration.  
 - 🥈 **Second Place**: Google Cloud GenAI Code Jam 2024 at Newton School.  
-- 🏅 **Hackathon Wins**: Recognized at FSM New Delhi for educational apps using Android Studio and ML.  
-
----
-
-## 🔥 Projects  
-### 🎮 Game Development  
-- **[Open-World Adventure Game](https://github.com/AmitSrivastav/OpenWorldGame)**: Immersive third-person game targeting PC and Android platforms.  
-- **[Car Football Game](https://github.com/AmitSrivastav/CarFootballGame)**: Offline team-based soccer game with NPCs and dynamic mechanics.  
-
-### 🧠 AI/ML  
-- **[GAN-Vocoder](https://github.com/AmitSrivastav/GAN-Vocoder)**: Machine learning-based project for audio generation and voice synthesis.  
-- **[Mental Health App](https://github.com/AmitSrivastav/Sage)**: Combines Generative AI with AR/VR to support mental well-being.
+- 🏅 **Hackathon Wins**: Recognized at FSM New Delhi for educational apps using Android Studio and ML. 
 
 ---
 
 ## 📈 Stats & Contributions  
-![GitHub Streak](https://streak-stats.demolab.com?user=AmitSrivastav&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitSrivastav&layout=compact&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitSrivastav&show_icons=true&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=srivamit&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivamit&layout=compact&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivamit&show_icons=true&theme=radical&hide_border=true)  
 
 ---
 
